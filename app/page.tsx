@@ -111,7 +111,7 @@ export default function HomePage() {
                 <Film className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold brand-gradient">PRINCE ERL CORNERO</h1>
+                <h1 className="text-2xl font-bold brand-gradient">DSA GROUP 3</h1>
                 <p className="text-sm text-muted-foreground">Movie Discovery Platform</p>
               </div>
             </div>
@@ -133,7 +133,7 @@ export default function HomePage() {
           </p>
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 border border-primary/20 rounded-full">
             <span className="text-sm font-medium text-primary">Made with</span>
-            <span className="text-sm font-bold text-primary">PRINCE ERL CORNERO</span>
+            <span className="text-sm font-bold text-primary">MOHAMAD ERL LIMOSNERO</span>
           </div>
         </div>
 
@@ -169,7 +169,7 @@ export default function HomePage() {
               <div className="p-1.5 bg-primary rounded-md">
                 <Film className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="text-lg font-bold brand-gradient">PRINCE ERL CORNERO</span>
+              <span className="text-lg font-bold brand-gradient">DSA GROUP 3</span>
             </div>
             <p className="text-sm text-muted-foreground">Crafting exceptional movie discovery experiences</p>
             <div className="pt-4 border-t border-border/50">
